@@ -1,6 +1,10 @@
 # fxserver-esx_advanced_inventory
 FXserver ESX Advanced Inventory
 
+## Archived
+
+This resource has been archived due to ESX having implemented a weight based inventory, update ESX and uninstall this script!
+
 [REQUIREMENTS]
 
   * es_extended => https://github.com/ESX-Org/es_extended
